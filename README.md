@@ -1,13 +1,12 @@
 ### Hello there👋... Eu sou o Leonardo e possuo o high ground.
 
 - 🔭 Atualemte estou cursando Análise e Desenvolvimento de Sistemas.
-- 🌱 Hoje trabalho com suportecnico realizando a manutenção de software e hardware de dispositivos.
+- 🌱 Hoje trabalho com suporte tecnico realizando a manutenção de software e hardware de dispositivos.
 - 👯 Focando em Java, Python e SQL.
 
 <div> 
   <a href="https://github.com/leoomulzze">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leoomulzze&show_icons=true&theme=dracula#gh-dark-mode-only"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoomulzze&layout=compact&langs_count=16%theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br> 
