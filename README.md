@@ -2,7 +2,7 @@
 
 - 🔭 Atualemte estou cursando Análise e Desenvolvimento de Sistemas.
 - 🌱 Hoje trabalho com suporte tecnico realizando a manutenção de software e hardware de dispositivos.
-- 👯 Focando em Java, Python e SQL.
+- 👯 Focando em Java, Python, SQL, JavaScript, HTML e C++.
 
 <div> 
   <a href="https://github.com/leoomulzze">
@@ -12,6 +12,9 @@
 <div style="display: inline_block"><br> 
   <img align="center" alt="Rafa-Jv" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Rafa-Py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>  
 
 ##
