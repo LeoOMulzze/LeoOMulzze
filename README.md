@@ -1,7 +1,6 @@
 ### Hello there👋... Eu sou o Leonardo e possuo o high ground.
 
 - 🔭 Atualemte estou cursando Análise e Desenvolvimento de Sistemas.
-- 🌱 Hoje trabalho com suporte tecnico realizando a manutenção de software e hardware de dispositivos.
 - 👯 Focando em Java, Python, SQL, JavaScript, HTML e C++.
 
 <div> 
